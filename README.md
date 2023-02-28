@@ -5,7 +5,7 @@
 <h2>Descripion</h2>
 Training mockup from LOGOS IT to practice new knowledge in
 bootstrap.
-Main tasks: the site should be adaptive, should use bootstrap and minimum self css styles layout should be as pixel-accurate as possible.
+Main tasks: the site should be adaptive, should use bootstrap and minimum self css styles, layout should be as pixel-accurate as possible.
 
 <h2>Technologies</h2>
 
